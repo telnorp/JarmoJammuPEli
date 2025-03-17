@@ -2,8 +2,6 @@
 
 ***MEE VITTU TÖIHIN SAATANA***
 
-1. DO NOT wear clothes while using this
+# Terveisi  sielt  GitHubista
 
-2. MAKE SURE your camera is ON
-
-3. ALLOW camera acces
+T m  repository sis lt  kaikenlaisia friikkien aarteita. T m  repository on auki kaikille ihmiskunnan edustajille, mutta siten ett  luotettavuus on 0. Eli  luottaa siihen mit n t ll  tehd n.
