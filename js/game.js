@@ -6,7 +6,7 @@ function draw() {
     canvas.height = window.innerHeight;
 
     //ctx.fillStyle = "lightblue";
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    //ctx.fillRect(0, 0, canvas.width, canvas.height);
 }
 window.onload = draw;
 window.onresize = draw;
