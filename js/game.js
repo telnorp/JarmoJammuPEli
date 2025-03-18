@@ -11,14 +11,14 @@ var player = {
 };
 
 var world = new Image();
-world.src = "../img/Orphanage pohja.png"; // Ensure this path is correct
+world.src = "img/Orphanage pohja.png"; // Ensure this path is correct
 world.onload = checkImagesLoaded;
 world.onerror = function() {
     console.error("Failed to load world image.");
 };
 
 var playerImage = new Image();
-playerImage.src = "../img/playeridle.png"; // Ensure this path is correct
+playerImage.src = "img/playeridle.png"; // Ensure this path is correct
 playerImage.onload = checkImagesLoaded;
 playerImage.onerror = function() {
     console.error("Failed to load player image.");
