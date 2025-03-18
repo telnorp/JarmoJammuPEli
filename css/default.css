@@ -7,6 +7,15 @@ body {
     height: 100vh;
     background-color: rgb(37, 37, 37);
 }
+#controls {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+button {
+    font-size: 16px;
+    margin: 5px;
+}
 canvas {
     background: url('../img/retardedblackkid.jpeg') no-repeat center center;
     background-size: cover;
